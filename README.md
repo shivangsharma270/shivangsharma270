@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shivang Sharma
 - 👀 I’m interested in ...Python, JAVA.
 - 🌱 I’m currently learning ...Android Developing.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email me at shivangsharma463@gmail.com
 
 <!---
